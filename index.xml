@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Research Notes</title>
+      <link>https://sgourapura.github.io/ResearchNotes</link>
+      <description>Last 10 notes on Research Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://sgourapura.github.io/ResearchNotes/tags/</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 13:38:28 GMT</pubDate>
+  </item><item>
+    <title>SPIDER</title>
+    <link>https://sgourapura.github.io/ResearchNotes/spider/</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/spider/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 13:38:15 GMT</pubDate>
+  </item><item>
+    <title>Research Notes</title>
+    <link>https://sgourapura.github.io/ResearchNotes/</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 13:38:15 GMT</pubDate>
+  </item><item>
+    <title>COMAP</title>
+    <link>https://sgourapura.github.io/ResearchNotes/comap/</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/comap/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 13:38:15 GMT</pubDate>
+  </item><item>
+    <title>Other Work</title>
+    <link>https://sgourapura.github.io/ResearchNotes/other/</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/other/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 10 Oct 2026 13:38:15 GMT</pubDate>
+  </item><item>
+    <title>Fixing Gain Initialization (v1)</title>
+    <link>https://sgourapura.github.io/ResearchNotes/spider/2026-10-07-fix-gain-init-v1</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/spider/2026-10-07-fix-gain-init-v1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Last State of SPIDER on Commander</title>
+    <link>https://sgourapura.github.io/ResearchNotes/spider/2026-10-06-last-state-of-spider</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/spider/2026-10-06-last-state-of-spider</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>COMAP Setup and First Run</title>
+    <link>https://sgourapura.github.io/ResearchNotes/comap/2026-10-02-comap-first-run</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/comap/2026-10-02-comap-first-run</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Getting GPT UiO setup with API Keys</title>
+    <link>https://sgourapura.github.io/ResearchNotes/other/2026-09-21-gpt-uio-setup</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/other/2026-09-21-gpt-uio-setup</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Owl Setup</title>
+    <link>https://sgourapura.github.io/ResearchNotes/other/2026-09-18-owl-setup</link>
+    <guid>https://sgourapura.github.io/ResearchNotes/other/2026-09-18-owl-setup</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
